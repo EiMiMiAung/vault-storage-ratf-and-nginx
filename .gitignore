@@ -1,0 +1,3 @@
+/ngnix/logs/*
+/ngnix/certificate/*
+/script/*.txt
